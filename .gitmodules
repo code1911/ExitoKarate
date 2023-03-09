@@ -1,0 +1,3 @@
+[submodule "ExitoKarateAuto"]
+	path = ExitoKarateAuto
+	url = https://github.com/code1911/ExitoKarate.git

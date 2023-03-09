@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "data": {
+    "id": 12,
+    "employee_name": "Quinn Flynn",
+    "employee_salary": 342000,
+    "employee_age": 22,
+    "profile_image": ""
+  }
+}
